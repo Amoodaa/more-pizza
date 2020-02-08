@@ -14,4 +14,4 @@ hub based on the number of registered paicipants. In order to reduce food waste,
 your goal is to order **as many pizza slices as possible** , but **not more than the
 maximum number**.
 
-[]()
+[Full Instructions](https://github.com/Amoodaa/more-pizza/blob/master/practice_problem.pdf)

@@ -1,0 +1,20 @@
+{
+  "name": "more-pizza",
+  "version": "1.0.0",
+  "description": "You are organizing a Hash Code hub and want to order pizza for your hub’s\r paicipants. Luckily, there is a nearby pizzeria with really good pizza.\r The pizzeria has dierent types of pizza, and to keep the food oering for your hub\r interesting, you can only order **at most one pizza of each type**. Founately, there are\r many types of pizza to choose from!\r Each type of pizza has a specied size: the size is the number of slices in a pizza of this\r type.\r You estimated the maximum number of pizza slices that you want to order for your\r hub based on the number of registered paicipants. In order to reduce food waste,\r your goal is to order **as many pizza slices as possible** , but **not more than the\r maximum number**.",
+  "main": "index.js",
+  "scripts": {
+    "test1": "node index ./a_example.in",
+    "test2": "node index ./b_small.in",
+    "test3": "node index ./c_medium.in",
+    "test4": "node index ./d_quite_big.in",
+    "test5": "node index ./e_also_big.in",
+    "all": "npm run test1 && npm run test2 && npm run test3 && npm run test4 && npm run test5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.7.0"
+  }
+}
